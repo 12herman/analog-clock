@@ -9,7 +9,7 @@
     src: url(./font/digital-7.ttf);
 }
 :root{
-    --theme-color:rgba(89, 236, 10, 0.897);
+    --theme-color:rgb(236 10 10 / 90%);
     --second-color:rgba(0, 0, 0, 0.897);  
 }
 .container{
@@ -28,7 +28,7 @@
     height: 500px;
     background-color: rgb(255, 255, 255);
     border-radius: 50%;
-    border: 10px ridge var(--theme-color);
+    border: 10px solid var(--theme-color);
     position: relative;
 }
 .circle::before{

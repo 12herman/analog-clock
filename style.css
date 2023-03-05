@@ -9,8 +9,8 @@
     src: url(./font/digital-7.ttf);
 }
 :root{
-    --theme-color:rgb(236 10 10 / 90%);
-    --second-color:rgba(0, 0, 0, 0.897);  
+    --theme-color:#ec0a0ae6;
+    --second-color:#000000e5;  
 }
 .container{
     width: 100vw;
